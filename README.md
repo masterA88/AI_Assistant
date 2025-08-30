@@ -87,8 +87,7 @@ pip install -r requirements.txt
 - **pyspellchecker**: A library for correcting spelling errors in user input.
 - **subprocess**: A module used to launch applications directly from the assistant.
 
-## License:
-This project is licensed under the MIT License.
+
 
 
 
