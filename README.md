@@ -18,5 +18,30 @@
 ## Installation:
 1. **Clone the repository**:
 ```bash
-https://github.com/masterA88/AI_Assistant.git)
+https://github.com/masterA88/AI_Assistant.git
 ```
+
+2. **Navigate to the project directory**:
+```bash
+cd AI_Assistant
+```
+
+3. **Create a virtual environment** (optional but recommended):
+```bash
+python -m venv venv
+```
+
+4. **Activate the virtual environment**:
+- On Windows:
+  ```
+  venv\Scripts\activate
+  ```
+- On macOS/Linux:
+  ```
+  source venv/bin/activate
+  ```
+
+5. **Install the required dependencies**:
+  ```
+pip install -r requirements.txt
+  ```
