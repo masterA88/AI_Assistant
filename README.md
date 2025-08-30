@@ -17,4 +17,6 @@
 
 ## Installation:
 1. **Clone the repository**:
-[git clone ](https://github.com/masterA88/AI_Assistant.git)
+```bash
+https://github.com/masterA88/AI_Assistant.git)
+```
